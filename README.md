@@ -1,0 +1,1 @@
+This is an enchance version of the "public" system. Now the input can be much larger, making brute force table attacks more difficult. Now the plan is to blend the output rows, since for the moment each row is function of one input word. 
